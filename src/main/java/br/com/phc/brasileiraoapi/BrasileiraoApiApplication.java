@@ -1,4 +1,4 @@
-package be.com.phc.brasileirao_api;
+package br.com.phc.brasileiraoapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
