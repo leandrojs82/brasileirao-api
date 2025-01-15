@@ -6,5 +6,4 @@ public enum StatusPartida {
 	PARTIDA_EM_ANDAMENTO,
 	PARTIDA_ENCERRADA,
 	PARTIDA_PENAlTIS;
-
 }
